@@ -9,6 +9,9 @@ $ git clone git@github.com:kokoyoshi/qiita-myproject.git
 $ cd qiita-myproject
 $ npm install
 ```
+./dist/ 配下が公開ディレクトリになる想定です。
+FTPなどであげる場合は ./dist/ 配下のみをアップロードします。
+
 ## ビルド
 
 `./src/scss/**/*.scss`のファイルをビルドする。
