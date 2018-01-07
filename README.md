@@ -6,6 +6,7 @@ https://qiita.com/kokoyoshi/items/12896561164aa7eb7c48
 ```shell
 $ cd path/to/wantdrop #これを落としたい場所に移動
 $ git clone git@github.com:kokoyoshi/qiita-myproject.git
+$ cd qiita-myproject
 $ npm install
 ```
 ## ビルド
