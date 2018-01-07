@@ -1,4 +1,4 @@
-# qiita-myproject
+# 初心者向けMacフロントエンド向け最低限の環境構築 + scssのビルド環境
 https://qiita.com/kokoyoshi/items/12896561164aa7eb7c48
 
 ## インストール
